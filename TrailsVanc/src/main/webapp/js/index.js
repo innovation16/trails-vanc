@@ -1,3 +1,3 @@
 function runFunc() {
-    alert('Hurray");
+    alert('Hello World');
 }
